@@ -1,0 +1,1 @@
+import{_ as t,c as o,a as r,t as s,b as a,o as n}from"./index-CHAXsPHL.js";a(()=>import("./functions-BmXlO6VN.js"),[],import.meta.url);const _={name:"HelloWps",data(){return{msg:"欢迎来到wps加载项的世界!"}}};function c(l,p,i,m,e,u){return n(),o("div",null,[r("h1",null,s(e.msg),1)])}const f=t(_,[["render",c]]);export{f as default};
